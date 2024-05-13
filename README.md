@@ -25,9 +25,6 @@
         <li>Клонировать репозиторий:<br>
             <code>git clone &lt;url_to_repository&gt;</code>
         </li>
-        <li>Установить зависимости (если таковые имеются):<br>
-            <code>pip install -r requirements.txt</code>
-        </li>
         <li>Запустить программу:<br>
             <code>python main.py</code>
         </li>
